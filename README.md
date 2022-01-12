@@ -1,5 +1,10 @@
 # react-projects-7-slider
 
-#### IN ACTION
+## Screenshot
 
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
+![](./screenshot.png);
+
+## Goal
+- Mapping JSON Datas
+- useState()
+- setInterval
